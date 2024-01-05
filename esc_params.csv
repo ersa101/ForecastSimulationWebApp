@@ -1,0 +1,13 @@
+﻿Parameter,Start Month,Value,Escalation Frequency
+CPI change,01/2024,8.97,Bi-Annual
+Fuel Escalation,01/2024,5.98,Quarterly
+Electrical Escalation,03/2024,3.76,Bi-Annual
+FX,03/2024,1.06,Monthly
+CPI change,08/2024,11.56,Annual
+Fuel Escalation,08/2024,-8.78,Quarterly
+Fuel Escalation,02/2025,-12,Quarterly
+Fuel Escalation,07/2025,15,Quarterly
+Fuel Escalation,12/2025,2.34,Monthly
+Electrical Escalation,09/2024,1.89,Quarterly
+Electrical Escalation,03/2025,-1.22,Quarterly
+Electrical Escalation,08/2025,2.66,Bi-Annual
